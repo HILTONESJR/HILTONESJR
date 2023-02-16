@@ -4,8 +4,9 @@ Olá, Eu Sou Hilton Junior
 - 🌱 Estou Estudando Gestão em TI ( Unip 3 Semestre ) - JavaScript - Algoritimo e Logica de programação.
 
 <div align="center">
-  <a href="https://github.com/HILTONESJR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueLeopoldo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://linktr.ee/HILTONESJR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinngjpeg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinngjpeg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
