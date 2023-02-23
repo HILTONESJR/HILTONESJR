@@ -6,7 +6,7 @@ Olá, Eu Sou Hilton Junior
 <div align="center">
   <a href="https://linktr.ee/HILTONESJR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HILTONESJR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HILTONESJR&layout=compact&langs_count=7&theme=dark"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HILTONESJR&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 # 💻 Tech Stack:
