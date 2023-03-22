@@ -8,7 +8,7 @@ Olá, Eu Sou Hilton Junior
 ![](https://github-readme-stats.vercel.app/api?username=HILTONESJR&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HILTONESJR&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-# Minhas Areas de Estudo 🤯kk
+# Estudando...  🤯kk
 <div style="display: inline_block">
  <h2>Front-End:</h2>
  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
