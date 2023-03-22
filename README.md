@@ -8,13 +8,17 @@ Olá, Eu Sou Hilton Junior
 ![](https://github-readme-stats.vercel.app/api?username=HILTONESJR&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HILTONESJR&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-# 💻 Tech Stack:
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div><br>
+# Minhas Areas de Estudo 🤯kk
+<div style="display: inline_block">
+ <h2>Front-End:</h2>
+ <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <br>
+ <h2>Frame-works:</h2>
+ <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img align="center" alt="JQUERY" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+ <br>
  
  # 🌐 Redes Sociais:<br>
  
