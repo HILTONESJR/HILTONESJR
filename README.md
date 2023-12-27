@@ -16,7 +16,7 @@
  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img align="center" alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
  
-  <img align="center" alt="Node" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f977196866be0f3895d73371086a49396253251/icons/angular.svg"/>
+  <img align="center" alt="Node" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/angular.svg"/>
 
  <br>
  <h2>Frame-works:</h2>
