@@ -1,7 +1,7 @@
 # Olá, Eu Sou Hilton Junior
 
 - 🔭 Trabalhando Atualmente como Fiscal de Operações Aeroportuareas em Congonhas.
-- 🌱 Cursando Gestão em TI ( Unip 4° Semestre ) - (Cursos JavaScript - Algoritimo e Logica de programação).<br/>
+- 🌱 Gestão em Tecnologia da Informação (Formado) - Desenvolvedor Front-End.<br/>
 
 # 📊 GitHub Stats:<br>
 
